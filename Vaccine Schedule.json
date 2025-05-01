@@ -1,0 +1,22 @@
+[
+  {
+    "age": "At Birth",
+    "IAP": ["BCG", "Hep B-1", "OPV-0", "Hepatitis B"],
+    "NIS": ["BCG", "OPV-0", "Hepatitis B Birth Dose"]
+  },
+  {
+    "age": "6 Weeks",
+    "IAP": ["DTwP-1", "IPV-1", "Hib-1", "Hep B-2", "Rotavirus-1", "PCV-1"],
+    "NIS": ["Pentavalent-1", "OPV-1", "Rotavirus-1", "IPV-1"]
+  },
+  {
+    "age": "10 Weeks",
+    "IAP": ["DTwP-2", "IPV-2", "Hib-2", "Rotavirus-2", "PCV-2"],
+    "NIS": ["Pentavalent-2", "OPV-2", "Rotavirus-2"]
+  },
+  {
+    "age": "14 Weeks",
+    "IAP": ["DTwP-3", "IPV-3", "Hib-3", "Hep B-3", "Rotavirus-3", "PCV-3"],
+    "NIS": ["Pentavalent-3", "OPV-3", "Rotavirus-3", "IPV-2"]
+  }
+]
